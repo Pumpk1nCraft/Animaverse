@@ -1,6 +1,6 @@
 > ABOUT GAME:
 
-Ethoverse is a game based on Ethobot content, made for Ethobot community.
+Animaverse is a game based on machinima creators content for the machinima creators community
 
 > COMMUNITY TUTORIALS:
 
@@ -10,10 +10,8 @@ Coming Soon.
 
 Discord server of Perker Studios: https://discord.gg/q22UXF4QQn
 
-Discord server of Ethobot (Game updates in #share-fan-art under name "Ethoverse [Game]"): https://discord.com/invite/ethobot
-
 > LICENSE:
 
-Ethoverse License Agreement
+Animaverse License Agreement
 
-Copyright 2024 (c) Perker Studios
+Copyright 2024-2025 (c) Perker Studios
